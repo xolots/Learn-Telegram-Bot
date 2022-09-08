@@ -1,7 +1,7 @@
 const facts = [
     {
         fact: "Tahukah kamu kalau kominfo kebobolan data milik rakyat sebanyak 1.3 Miliar Dan Diperjualbelikan Pada Forum Hacker.",
-        animal: "kominfo"
+        animal: "Cat"
     },
     {
         fact: "The elephant's temporal lobe (the area of the brain associated with memory) is larger and denser than that of people - hence the saying 'elephants never forget'.",

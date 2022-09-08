@@ -69,7 +69,7 @@ async function editImage(image, imagePath, fact) {
         
     }
     catch(e){
-        console.log('error auditing image', e)
+        console.log('error auditing gambar', e)
     }
 }
 
