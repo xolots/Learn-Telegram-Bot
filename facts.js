@@ -4,16 +4,16 @@ const facts = [
         animal: "Cat"
     },
     {
-        fact: "The elephant's temporal lobe (the area of the brain associated with memory) is larger and denser than that of people - hence the saying 'elephants never forget'.",
-        animal: "Elephant"
+        fact: "Kata magnet diambil dari Magnesia, nama suatu daerah di Asia Kecil, suatu tempat ketika orang-orang Yunani (diperkirakan tahun 600 SM) menemukan sifat dari mineral magnetik (Fe3O4,) yang terdapat dalam batu-batuan dan mempunyai sifat dapat menarik partikel-partikel besi. Diperkirakan orang Cina adalah yang pertama kali memanfaatkan batu bermuatan ini sebagai kompas, baik di darat maupun di laut. '.",
+        animal: "Magnet"
     },
     {
-        fact: "On average, males weigh 190kg and females weigh 126kg . They need this weight and power behind them to hunt large prey and defend their pride.  ",
-        animal: "Lion"
+        fact: "Kernel adalah modul utama dari operating system sebuah hardware. Tugas utamanya adalah memberi layanan kepada aplikasi dan bagian lain dari OS, lalu memuatnya di dalam memori utama.",
+        animal: "Computer"
     },
     {
-        fact: "The Amazon river is home to four species of river dolphin that are found nowhere else on Earth. ",
-        animal: "Dolphin"
+        fact: "Pencipta Bot Ini Adalah : Hardian ",
+        animal: "Man"
     },
 ]
 
